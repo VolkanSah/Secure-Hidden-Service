@@ -1,4 +1,4 @@
-# Setting Up a Secure Hidden Service (Onion Site)
+# Setting Up a Secure Hidden Service (Onion Site) - basics
 
 ## Table of Contents
 1. [Introduction](#introduction)

@@ -10,6 +10,11 @@
 7. [Securing the Server](#securing-the-server)
 8. [Conclusion](#conclusion)
 
+# Other important stuff
+- [Use mltiple Tor Instances for Hidden Services/Tunnels](https://github.com/VolkanSah/run-multiple-Tor-instances)
+- [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah/ModSecurity-Webserver-Protection-Guide)
+- [ModSecurity Rule to Block SQL Injection Attacks in PHP](https://github.com/VolkanSah/ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP)
+
 ## Introduction
 A Tor Hidden Service (onion site) allows you to host a website that is only accessible via the Tor network. To maintain security and anonymity, we must ensure that our service does not act as an exit node, which could expose our server to legal and security risks.
 
@@ -105,3 +110,5 @@ sudo apt install fail2ban -y
 ## Conclusion
 By following these steps, you will have a secure and anonymous Tor Hidden Service without exposing your server to exit traffic risks. Maintain best security practices and keep your software updated to protect your service. 🚀
 
+## Copyright
+S. Volkan Sah
